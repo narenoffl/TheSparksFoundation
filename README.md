@@ -6,7 +6,7 @@ Languages and Frameworks - HTML, CSS, Bootstrap, and JavaScript
 
 Task Video - https://lnkd.in/g4G-HHp
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/38ad10de-e53f-4283-a5ca-1d36dfaf5dec/deploy-status)](https://app.netlify.com/sites/thesparksbank/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/38ad10de-e53f-4283-a5ca-1d36dfaf5dec/deploy-status)](https://thesparksbank.netlify.app)
 
 <hr>
 
@@ -15,7 +15,7 @@ Languages and Frameworks - HTML, CSS, Bootstrap, and JavaScript
 
 Task Video - https://www.youtube.com/watch?v=B2BjTGkftAo
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/279cd78e-ca8f-4c4b-a43f-4893173675ca/deploy-status)](https://app.netlify.com/sites/fw-payment-gateway/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/279cd78e-ca8f-4c4b-a43f-4893173675ca/deploy-status)](https://fw-payment-gateway.netlify.app)
 
 
 
