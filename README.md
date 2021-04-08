@@ -10,8 +10,7 @@ Task Video - https://lnkd.in/g4G-HHp
 
 <hr>
 
-# Payment Gateway Integration using Razorpay API 
-<br> 
+# Payment Gateway Integration using Razorpay API <br>
 Languages and Frameworks - HTML, CSS, Bootstrap, and JavaScript 
 
 Task Video - https://www.youtube.com/watch?v=B2BjTGkftAo
